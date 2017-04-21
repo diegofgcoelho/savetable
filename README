@@ -1,0 +1,5 @@
+This project contains the implementation of a method in different languages that saves your table (matrix) into text or latex format.
+This is particularly useful in scientific application, saving you precious time and from typing everything every time you run your experiments.
+
+This implementation was written by Diego Coelho, PhD student at University of Calgary.
+The inprogress branch stores information and changes in the project related to the fast estimation of the largest eigenvalue of tridiagonal matrices before being committed to the master branch.
